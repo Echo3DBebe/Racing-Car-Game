@@ -3,10 +3,13 @@ This 3D racing game is powered by echo3D using Unity/C# forked from [RacingCarGa
 
 This demo shows you how to remotely set and change the 3 car models from the echo3D cloud by adding an SDK.
 
+# Video
+Follow the video on [Youtube](https://youtu.be/i7SSyiLHeLw).
+
 # Setup
 * Built with Unity 2022.3.5.
 * [Register](https://console.echo3d.com/#/auth/register?utm_term={keyword}&utm_campaign=racingcargame_reskin&utm_source=GITHUB&utm_medium=repo) for your free echo3D account.
-* The echo3D SDK has already been installed.
+* [The echo3D SDK](https://docs.echo3d.com/unity/installation) has already been installed.
 * Clone this repo.
 
 # Steps
@@ -14,8 +17,7 @@ This demo shows you how to remotely set and change the 3 car models from the ech
 * [Add the 3 car models](https://docs.echo3d.co/quickstart/add-a-3d-model) from the Models folder to the echo3D cloud.
  ![AddToCloudGIF](https://github.com/Echo3DBebe/3DPlatformer/assets/99516371/a37e7194-8a48-4bae-a3f2-d05d76b1e20d)<br>
 * [Add the API key and entry ID](https://docs.echo3d.com/unity/using-the-sdk) to the child echo3DHologram in the Car_Blue, Car_Red and Car_Yellow objects through the Inspector. <br>
-![APIKey](https://github.com/Echo3DBebe/3DPlatformer/assets/99516371/239cdfc8-d448-4003-a34a-3135483a49f0) <br>
-![EntryID](https://github.com/Echo3DBebe/3DPlatformer/assets/99516371/fdbf2479-aa77-422a-ae47-408c2a57957a)<br>
+![RedCarConsole](https://github.com/echo3Dco/Unity-echo3D-Demo-RacingCarGame/assets/99516371/d8cf7369-e351-4c3b-b247-eca5396e4594) <br>
 ![NEWAPIKeyandEntryID](https://github.com/Echo3DBebe/3DPlatformer/assets/99516371/1f661997-00c3-4bbd-b574-bccb39adbd95)
 
 # Run
